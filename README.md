@@ -26,4 +26,7 @@ NOTE: Re-sort data and sum by station
   
 [Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%202020%20-%20MTA%20Data.ipynb) to view and edit the notebook we were working on.
 
+
 [This](http://web.mta.info/developers/turnstile.html) is the MTA data site. 
+
+[This](https://www.kaggle.com/muonneutrino/new-york-city-census-data) is the census data from the Kaggle site.
