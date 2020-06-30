@@ -24,3 +24,6 @@ NOTE: Re-sort data and sum by station
 **Step 5**: Use Demographic data to get more info
 1. Occupation
   
+[Click Here]("https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%202020%20-%20MTA%20Data.ipynb") to view and edit the notebook we were working on.
+
+[This]("http://web.mta.info/developers/turnstile.html") is the MTA data site. 
