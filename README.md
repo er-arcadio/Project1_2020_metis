@@ -1,6 +1,10 @@
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
+## The Main Problem Summarized
+WomenTechWomenYes (WTWY) wants to fill their event space with individuals passionate about increasing the participation of **women in technology**, and to concurrently **build awareness and reach**. They want to gather the most signitures from people that will contribute to their cause. 
+
+
 ## Progress and Goals
 
 *In "MVP" order*
