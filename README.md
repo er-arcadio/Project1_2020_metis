@@ -42,3 +42,5 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 [This](http://web.mta.info/developers/turnstile.html) is the MTA data site. 
 
 [This](https://www.kaggle.com/muonneutrino/new-york-city-census-data) is the census data from the Kaggle site.
+
+[This](https://docs.google.com/document/d/1oAJrWNR7HxNJVI2IHUuHArEvBccowLqvPObYbqtH0rs/edit) is the rubric for the project.
