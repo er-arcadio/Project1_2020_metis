@@ -1,31 +1,39 @@
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
-## Problems and Possible Solutions
+## Progress and Goals
 
 *In "MVP" order*
 
-**Step 1**: Cleaning data - Finding outliers
-1. Filter out outliers (consider 99.7th percentile)
-2. (if necessary) Plotting data to visualize outliers
-NOTE: Re-sort data and sum by station
+**MVP 1**: Cleaning MTA Data & Graphing Findings
+1. We used MTA data to find entries and exits per day,
+2. Eliminated any outstanding outliers,
+3. Sorted the result by station
+4. Graphed the result using matplotlib.
 
-**Step 2**: Prepare Presentation
-1. Possibly: Jupyter, Power Point
+**MVP 2**: Demographic Census Data Set
+1. We graphed the data using matplotlib sorting by: Women, *Professional*, *Transit Info*
+  *Worked with "Census tract" to merge "tract" number and find longitude and latitude*
 
-**Step 3**: Demographic Data set filtering (Gender Focussed)
-1. Work with "Dataset_1682..." to get "tract" (zipcode like number)
-2. Work with "Census tract" to merge "tract" number and find longitude and latitude
+## We still need to ...
 
-**Step 4**: Include Information not found in data sets into presentation
+**1. With regards to MTA Data**
+1. Sum and sort by Weekday vs Weekend
+2. 4 hour block (determine the best time to show up at the station)
+
+**2. With regards to the Census data**
+1. Figure out the significance of "Professional" and possibly use it to determine where people working in technology live.
+2. Merge the resulting graph with a map of NYC to find the name of near by stations.
+
+**3. With regards to Google**
+1. Include Information not found in data sets into presentation
 1. All girls schools, Technology Schools, Technology areas (wall street)
 2. Maybe just Google, Maybe a data set?
 
-**Step 5**: Use Demographic data to get more info
-1. Occupation
+**4. With regars to a presentation**: Prepare Presentation
+1. Possibly: Jupyter, Power Point
   
-[Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%202020%20-%20MTA%20Data.ipynb) to view and edit the notebook we were working on.
-
+[Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%20Draft.ipynb) to view and edit the most recent notebook we were working on.
 
 [This](http://web.mta.info/developers/turnstile.html) is the MTA data site. 
 
