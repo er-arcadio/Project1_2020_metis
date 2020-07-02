@@ -16,26 +16,27 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 4. Graphed the result using matplotlib.
 
 **MVP 2**: Demographic Census Data Set
-1. We graphed the data using matplotlib sorting by: Women, *Professional*, *Transit Info*
-  *Worked with "Census tract" to merge "tract" number and find longitude and latitude*
+1. We graphed the data using matplotlib sorting by: Women
+  *Worked with "Census tract" to merge "tract" number and turn longitude and latitude to a "heat map"*
+2. Cross referenced that with the NYC subway map to find the "hot spots" based on women-dense locations.
+
 
 ## We still need to ...
 
 **1. With regards to MTA Data**
-1. Sum and sort by Weekday vs Weekend
-2. 4 hour block (determine the best time to show up at the station)
+1. Sum and sort by Best Day of week and
+2. Best 4 hour block (determine the best time to show up at the station)
 
 **2. With regards to the Census data**
-1. Figure out the significance of "Professional" and possibly use it to determine where people working in technology live.
-2. Merge the resulting graph with a map of NYC to find the name of near by stations.
+1. Add pin drops to the heatmap-graph to show the hotspots
 
 **3. With regards to Google**
-1. Include Information not found in data sets into presentation
-1. All girls schools, Technology Schools, Technology areas (wall street)
+1. All girls schools, Technology Schools, Technology areas
 2. Maybe just Google, Maybe a data set?
 
-**4. With regars to a presentation**: Prepare Presentation
-1. Possibly: Jupyter, Power Point
+**4. Fine tune Presentation & Clean Code**: Prepare Presentation
+1. KeyNote
+2. Jupyter (.pynb) or .py
   
 [Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%20Draft.ipynb) to view and edit the most recent notebook we were working on.
 
