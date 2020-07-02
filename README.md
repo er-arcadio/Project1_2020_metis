@@ -1,3 +1,5 @@
+NEXT MEET! -- 4th of July 8am PDT 11am ET
+
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
