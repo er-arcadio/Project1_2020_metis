@@ -1,11 +1,11 @@
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
-## The Main Problem Summarized
+## The Main Problem Summarized (Intro)
 WomenTechWomenYes (WTWY) wants to fill their event space with individuals passionate about increasing the participation of **women in technology**, and to concurrently **build awareness and reach**. They want to gather the most signitures from people that will contribute to their cause. 
 
 
-## Progress and Goals
+## Progress and Goals (Method and Tools)
 
 *In "MVP" order*
 
@@ -15,7 +15,7 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 3. Sorted the result by station
 4. Graphed the result using matplotlib.
 
-**MVP 2**: Demographic Census Data Set
+**MVP 2**: Plotting Demographic-Census Data and Pinning the HotSpot (Train Stations) Nearby
 1. We graphed the data using matplotlib sorting by: Women
   *Worked with "Census tract" to merge "tract" number and turn longitude and latitude to a "heat map"*
 2. Cross referenced that with the NYC subway map to find the "hot spots" based on women-dense locations.
@@ -23,14 +23,14 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 
 ## We still need to ...
 
-**1. With regards to MTA Data**
+**1. With regards to the Census data (MVP2)**
+1. Add pin drops to the heatmap-graph to show the hotspots
+
+**2. With regards to MTA Data (MVP3)**
 1. Sum and sort by Best Day of week and
 2. Best 4 hour block (determine the best time to show up at the station)
 
-**2. With regards to the Census data**
-1. Add pin drops to the heatmap-graph to show the hotspots
-
-**3. With regards to Google**
+**3. With regards to Google (MVP4)**
 1. All girls schools, Technology Schools, Technology areas
 2. Maybe just Google, Maybe a data set?
 
