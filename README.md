@@ -37,7 +37,10 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 **4. Fine tune Presentation & Clean Code**: Prepare Presentation
 1. KeyNote
 2. Jupyter (.pynb) or .py
-  
+
+
+## Resources
+
 [Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%20Draft.ipynb) to view and edit the most recent notebook we were working on.
 
 [This](http://web.mta.info/developers/turnstile.html) is the MTA data site. 
