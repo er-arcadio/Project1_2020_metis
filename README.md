@@ -1,13 +1,21 @@
-NEXT MEET! -- 4th of July 8am PDT 11am ET
+NEXT MEET! -- 5th of July 8am PDT 11am ET
 
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
+
+## Presentation
+1. Intro - Jon (Present Problem - Highlight key takeaways)
+2. Method & tools - Jonathan (MatplotLib - Heat_map & bar_graphs & Google_Search)
+3. Results - Manny (visuals bar graphs, heat maps, Top 5s)
+4. Conclusion & Recommend - Lucy (pinned maps)
+5. Future Work - Lucy (See future work above)
+
 
 ## The Main Problem Summarized (Intro)
 WomenTechWomenYes (WTWY) wants to fill their event space with individuals passionate about increasing the participation of **women in technology**, and to concurrently **build awareness and reach**. They want to gather the most signitures from people that will contribute to their cause. 
 
 
-## Progress and Goals (Method and Tools)
+## Progress (Method and Tools)
 
 *In "MVP" order*
 
@@ -21,24 +29,27 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 1. We graphed the data using matplotlib sorting by: Women
   *Worked with "Census tract" to merge "tract" number and turn longitude and latitude to a "heat map"*
 2. Cross referenced that with the NYC subway map to find the "hot spots" based on women-dense locations.
+3. Add pin drops to the heatmap-graph to show the hotspots
+
+**MVP 3**: Use Niche.com and Google to target Women & Tech areas
+1. Created a list of top 5 all girls schools and top 5 tech schools in NYC
+2. Pinned the closest top 20 station if it was within walking distance
+3. Look up big tech businesses and pin them.
 
 
 ## We still need to ...
 
-**1. With regards to the Census data (MVP2)**
-1. Add pin drops to the heatmap-graph to show the hotspots
+**Fine tune Presentation, Clean Code, Possibly add Code**: Prepare Presentation
+1. KeyNote ["Link"](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project1_presentation_jon.key) to presentation.
+2. Jupyter (.pynb) or .py
+3. Add pins to map for MVP1 & for MVP3
+4. 
 
-**2. With regards to MTA Data (MVP3)**
+
+## Future Work
+**We wish we could've looked at MTA data more in depth...**
 1. Sum and sort by Best Day of week and
 2. Best 4 hour block (determine the best time to show up at the station)
-
-**3. With regards to Google (MVP4)**
-1. All girls schools, Technology Schools, Technology areas
-2. Maybe just Google, Maybe a data set?
-
-**4. Fine tune Presentation & Clean Code**: Prepare Presentation
-1. KeyNote
-2. Jupyter (.pynb) or .py
 
 
 ## Resources
@@ -50,3 +61,5 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 [This](https://www.kaggle.com/muonneutrino/new-york-city-census-data) is the census data from the Kaggle site.
 
 [This](https://docs.google.com/document/d/1oAJrWNR7HxNJVI2IHUuHArEvBccowLqvPObYbqtH0rs/edit) is the rubric for the project.
+
+
