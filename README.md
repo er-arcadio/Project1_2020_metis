@@ -2,11 +2,11 @@
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
 ## Presentation
-1. Intro - Jon (Present Problem - Highlight key takeaways)
-2. Method & tools - Jonathan (MatplotLib - Heat_map & bar_graphs & Google_Search)
-3. Results - Manny (visuals bar graphs, heat maps, Top 5s)
-4. Conclusion & Recommend - Lucy (pinned maps)
-5. Future Work - Lucy (See future work above)
+1. Intro - Jon 
+2. Method & tools - Jonathan 
+3. Results - Manny 
+4. Conclusion & Recommend - Lucy
+5. Future Work - Lucy
 
 
 ## The Main Problem Summarized (Intro)
@@ -29,8 +29,7 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 
 ## Resources
 
-[Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project%201%20Draft.ipynb) to view and edit the most recent notebook we were working on.
-
+[Click Here](https://github.com/er-arcadio/Project1_2020_metis/blob/master/presentations/Project1_presentation_FINAL.key) to view the final Presentation.
 [This](http://web.mta.info/developers/turnstile.html) is the MTA data site. 
 
 [This](https://www.kaggle.com/muonneutrino/new-york-city-census-data) is the census data from the Kaggle site.
