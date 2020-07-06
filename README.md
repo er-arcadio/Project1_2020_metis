@@ -1,5 +1,3 @@
-NEXT MEET! -- 5th of July 2pm PDT 5pm EDT
-
 # Project1_2020_metis
 Looking at MTA &amp; Census data to help bring more woman into technology. 
 
@@ -17,8 +15,6 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 
 ## Progress (Method and Tools)
 
-*In "MVP" order*
-
 **MVP 1**: Cleaning MTA Data & Graphing Findings
 1. We used MTA data to find entries and exits per day,
 2. Eliminated any outstanding outliers,
@@ -34,22 +30,16 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 **MVP 3**: Use Niche.com and Google to target Women & Tech areas
 1. Created a list of top 5 all girls schools and top 5 tech schools in NYC
 2. Pinned the closest top 20 station if it was within walking distance
-3. Look up big tech businesses and pin them.
-
-
-## We still need to ...
-
-**Fine tune Presentation, Clean Code, Possibly add Code**: Prepare Presentation
-1. KeyNote ["Link"](https://github.com/er-arcadio/Project1_2020_metis/blob/master/Project1_presentation_jon.key) to presentation.
-2. Jupyter (.pynb) or .py
-3. Add pins to map for MVP1 & for MVP3
-4. 
-
 
 ## Future Work
 **We wish we could've looked at MTA data more in depth...**
 1. Sum and sort by Best Day of week and
 2. Best 4 hour block (determine the best time to show up at the station)
+
+## We still need to ...
+
+**Fine tune Presentation & Clean Code**
+1. Jupyter (.pynb) or .py - Clean code
 
 
 ## Resources
