@@ -24,7 +24,7 @@ WomenTechWomenYes (WTWY) wants to fill their event space with individuals passio
 
 [The pdf of the final Presentation.](https://github.com/er-arcadio/Project1_2020_metis/blob/master/presentations/Project1_presentation_FINAL.pdf) 
 
-[The folder with the two Jupyter Notebooks](https://github.com/er-arcadio/Project1_2020_metis/blob/master/presentations/Project1_presentation_FINAL.key) 
+[The folder with the two Jupyter Notebooks](https://github.com/er-arcadio/Project1_2020_metis/tree/master/jupyter_notebooks) 
 
 - 1 notebook for [the MTA data](http://web.mta.info/developers/turnstile.html) and
 - 1 notebook for [the census data](https://www.kaggle.com/muonneutrino/new-york-city-census-data) from Kaggle.
